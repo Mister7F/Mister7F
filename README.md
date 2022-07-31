@@ -5,7 +5,7 @@
 [![CryptoHack](https://custom-icon-badges.herokuapp.com/badge/CryptoHack-fdb813?style=for-the-badge&logo=brain-min)](https://cryptohack.org/user/Mister7F/)
 [![LinkedIn](https://custom-icon-badges.herokuapp.com/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/st%C3%A9phane-debauche-378b9a135) [![LinkedIn](https://custom-icon-badges.herokuapp.com/badge/Odoo-a4448b?style=for-the-badge&logo=Odoo&logoColor=a4448b)](https://github.com/std-odoo)
 
-I'm a Software Engineer who loved CTFs and learning new technologies.
+I'm a Software Engineer who love CTFs and learning new technologies.
 
 Checkout my personnal projects on [Github](https://github.com/Mister7F) or the challenges I solved on [Root-Me](https://root-me.org/Mister7F?inc=score) / [CryptoHack](https://cryptohack.org/user/Mister7F/)!
 
