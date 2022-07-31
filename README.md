@@ -8,3 +8,7 @@
 I'm a Software Engineer who loved CTFs and learning new technologies.
 
 Checkout my personnal projects on [Github](https://github.com/Mister7F) or the challenges I solved on [Root-Me](https://root-me.org/Mister7F?inc=score) / [CryptoHack](https://cryptohack.org/user/Mister7F/)!
+
+<p align="center">
+  <img src="https://github.com/Mister7F/Mister7F/blob/main/assets/background.png?raw=true" width="95%"/>
+</p>
